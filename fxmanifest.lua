@@ -26,7 +26,7 @@ server_scripts {
 
 shared_scripts {
     'config.lua',
-    'links/shared.lua',
+    'links/frameworks/shared.lua',
     'links/playergroups/config.lua',
     '@ox_lib/init.lua',
 }
