@@ -1,7 +1,6 @@
 # SK_Link
 
-<img src="https://github.com/user-attachments/assets/25382dea-6826-48c3-8882-41fcd93daf6d" width="112">
-
+<img src="https://github.com/user-attachments/assets/8a9a1971-5219-41d2-a31e-8eef906f55c4" width="112">
 
 This resource is designed to seamlessly link scripts with supported frameworks and dependencies, enabling any resource to integrate cleanly with the frameworks and external systems listed below.
 
