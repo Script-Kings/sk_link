@@ -15,7 +15,3 @@ end)
 function GetPlayerJob()
     return PLAYER.job.name
 end
-
-function NotifyViaFramework(message, type)
-    exports.qbx_core:Notify(message, type, 4000)
-end

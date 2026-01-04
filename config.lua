@@ -1,7 +1,7 @@
 Link = {}
 
 Link = {
-    debug = true,
+    debug = false,
 }
 
 -- Framework Settings

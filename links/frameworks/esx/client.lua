@@ -14,11 +14,3 @@ end)
 function GetPlayerJob()
     return PLAYER.job.name
 end
-
-function NotifyViaFramework(message, type)
-    if type == 'warning' then
-        type = 'error'
-    end
-
-    ESX.ShowNotification(message, type, 4000)
-end
